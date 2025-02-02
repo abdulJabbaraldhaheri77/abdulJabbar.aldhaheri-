@@ -1,1 +1,1 @@
-worker : Python بوت الظاهري.py
+worker: python بوت_الظاهري.py
